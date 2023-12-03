@@ -26,6 +26,6 @@ URLib
 
 **POC:**
 
-Given a coded list of what would be your disered rooms to control, type the THM username to keep track of them:
+Given a coded list of what would be your desired rooms to control, type the THM username to keep track of them:
 
 ![image](https://github.com/treserre/THM-Room-Checker/assets/124435877/f83266f6-f89d-44bb-9620-35f1c023ea35)
